@@ -1,12 +1,14 @@
 # 🍉 Fruit Ninja 3D
 
+[\![Play Now](https://img.shields.io/badge/▶%20Play%20Now-Live%20Demo-brightgreen?style=for-the-badge)](https://nebinbiju1.github.io/fruitninja3d/)
+
 A browser-based Fruit Ninja game using webcam hand tracking via MediaPipe.
 
 ## How to Play
 
 - **Start/Restart:** Show a 👍 thumbs up to the camera
 - **Slice fruits:** Move your index fingertip fast across a fruit
-- **Lives:** You have 3 lives — don't let fruits fall!
+- **Lives:** You have 3 lives — don't let fruits fall\!
 - **Difficulty:** Fruits speed up as your score increases
 
 ## Run Locally
